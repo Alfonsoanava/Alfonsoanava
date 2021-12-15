@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alfonsoanava
 - 👀 I’m interested in ...Cryptocurrency
-- 🌱 I’m currently learning ... Reading books from the z library
+- 🌱 I’m currently learning ... Reading books from the z library  for free crypto books
 - 💞️ I’m looking to collaborate on ...Minting tokens
 - 📫 How to reach me ... alfonsoanava@icloud.com
 
