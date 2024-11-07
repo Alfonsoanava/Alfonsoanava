@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Alfonsoanava
-- 👀 I’m interested in web3
-- 🌱 I’m currently learning ... Reading books from the z library  for free crypto books
-- 💞️ I’m looking to collaborate on ...Minting tokens
-- 📫 How to reach me ... alfonsoanava@icloud.com
+- 👀 I’m interested in smart contracts using IDE Remix 
+- 🌱 I’m currently looking for a GitHub specialist that knows a lot about repositories 
+- 💞️ I’m looking to collaborate by using col situationpilot writing smart contracts
+- 📫 How to reach me ... alfonsoanava@icloud.com let's set up a zoom call
 
 <!---
 Alfonsoanava/Alfonsoanava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
