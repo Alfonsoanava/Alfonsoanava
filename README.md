@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Alfonsoanava
+Wakanda- 👋 Hi, I’m @Alfonsoanava
 - 👀 I’m interested in smart contracts using IDE Remix 
 - 🌱 I’m currently looking for a GitHub specialist that knows a lot about repositories 
-- 💞️ I’m currently using copilot to writing smart contracts Business Account
+- 💞️ I’m currently using copilot to writing smart contracts Business Account Trust wallet
 - 📫 How to reach me ... alfonsoanava@icloud.com let's set up a zoom call
 
 <!---
